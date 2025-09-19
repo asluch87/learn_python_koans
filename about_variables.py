@@ -12,6 +12,7 @@ def test_can_assign_to_variable():
     assert a + 3 == 15
 
 
+
 def test_can_assign_different_types():
     """
         В одну переменную можно записывать значения разных типов.

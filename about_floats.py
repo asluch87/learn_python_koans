@@ -12,6 +12,7 @@ def test_can_sum_up():
     assert 2.5 + 1.2 == 3.7
 
 
+
 def test_can_assign_to_variables():
     """
         Вещественные числа можно записывать в переменные
