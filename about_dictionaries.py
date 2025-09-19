@@ -16,6 +16,7 @@ def test_create_dictionary_with_literal():
     assert dict_comparator(d, {'a':1, 'b':2}) # попробуйте подстваить объект вида {key1: value1, key2: value2,...}
 
 
+
 def test_create_dictionary_with_constructor():
     """
         Словарь в Python можно создать с помощью конструктора словаря

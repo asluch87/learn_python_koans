@@ -11,6 +11,7 @@ def test_slice_with_index():
     assert str1[2] == 't'
 
 
+
 def test_slice_with_index_minus_one():
     """
         Если задать индекс со значением -1, то мы получим срез с последним символом строки

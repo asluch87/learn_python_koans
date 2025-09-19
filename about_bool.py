@@ -17,6 +17,7 @@ def test_has_false_literal():
     assert not a
 
 
+
 def test_python_can_calculate_bool_expressions():
     """
         Python может проверять, является выражение истиной или ложью

@@ -10,6 +10,7 @@ def test_string_indexes():
     assert str1[5] == ','
 
 
+
 def test_string_slice():
     """
         Из строки можно брать срез

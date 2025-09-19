@@ -10,6 +10,7 @@ def test_and_returns_one_of_the_operands():
     assert r == 'b'  # попробуйте такие варианты: True, False, 'a', 'b'
 
 
+
 def test_or_returns_one_of_the_operands():
     """
         Оператор or выполняет булевы операции, но возвращает не булево

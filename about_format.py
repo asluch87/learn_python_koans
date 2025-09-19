@@ -12,6 +12,7 @@ def test_format_simple():
     assert str2 == 'Hello, world! 123'
 
 
+
 def test_format_indeces():
     """
         Плейсхолдеры могут быть пронумерованы

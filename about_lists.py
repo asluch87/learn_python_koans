@@ -13,6 +13,7 @@ def test_create_list_with_literal():
     assert my_list == ['Hello', 'world'] # попробуйте ввести такие варианты: list(), ['Hello', 'world'], {'Hello'}
 
 
+
 def test_create_list_with_constructor():
     """
         Список в Python также можно создать с помощью функции list()
